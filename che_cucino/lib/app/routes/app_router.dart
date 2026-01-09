@@ -1,0 +1,116 @@
+import 'package:auto_route/auto_route.dart';
+import 'package:auto_route/auto_route.dart';
+import 'package:che_cucino/app/presentation/screens/home/home_screen.dart';
+import 'package:che_cucino/app/presentation/screens/login/login_screen.dart';
+import 'package:auto_route/auto_route.dart';
+import 'package:che_cucino/app/presentation/screens/home/home_screen.dart';
+import 'package:che_cucino/app/presentation/screens/login/login_screen.dart';
+import 'package:che_cucino/app/presentation/screens/onboarding/onboarding_screen.dart';
+import 'package:auto_route/auto_route.dart';
+import 'package:che_cucino/app/presentation/screens/home/home_screen.dart';
+import 'package:che_cucino/app/presentation/screens/login/login_screen.dart';
+import 'package:che_cucino/app/presentation/screens/missions/missions_screen.dart';
+import 'package:che_cucino/app/presentation/screens/onboarding/onboarding_screen.dart';
+import 'package:auto_route/auto_route.dart';
+import 'package:che_cucino/app/presentation/screens/home/home_screen.dart';
+import 'package:che_cucino/app/presentation/screens/login/login_screen.dart';
+import 'package:che_cucino/app/presentation/screens/missions/missions_screen.dart';
+import 'package:che_cucino/app/presentation/screens/onboarding/onboarding_screen.dart';
+import 'package:auto_route/auto_route.dart';
+import 'package:che_cucino/app/presentation/screens/home/home_screen.dart';
+import 'package:che_cucino/app/presentation/screens/login/login_screen.dart';
+import 'package:che_cucino/app/presentation/screens/missions/missions_screen.dart';
+import 'package:che_cucino/app/presentation/screens/onboarding/onboarding_screen.dart';
+import 'package:che_cucino/app/presentation/screens/profile/profile_screen.dart';
+import 'package:che_cucino/app/presentation/screens/recipe_details/recipe_details_screen.dart';
+import 'package:auto_route/auto_route.dart';
+import 'package:che_cucino/app/presentation/screens/cookbook/cookbook_screen.dart';
+import 'package:che_cucino/app/presentation/screens/home/home_screen.dart';
+import 'package:che_cucino/app/presentation/screens/login/login_screen.dart';
+import 'package:che_cucino/app/presentation/screens/missions/missions_screen.dart';
+import 'package:che_cucino/app/presentation/screens/onboarding/onboarding_screen.dart';
+import 'package:che_cucino/app/presentation/screens/profile/profile_screen.dart';
+import 'package:che_cucino/app/presentation/screens/recipe_details/recipe_details_screen.dart';
+import 'package:auto_route/auto_route.dart';
+import 'package:che_cucino/app/presentation/screens/blog/blog_screen.dart';
+import 'package:che_cucino/app/presentation/screens/cookbook/cookbook_screen.dart';
+import 'package:che_cucino/app/presentation/screens/home/home_screen.dart';
+import 'package:che_cucino/app/presentation/screens/login/login_screen.dart';
+import 'package:che_cucino/app/presentation/screens/missions/missions_screen.dart';
+import 'package:che_cucino/app/presentation/screens/onboarding/onboarding_screen.dart';
+import 'package:che_cucino/app/presentation/screens/profile/profile_screen.dart';
+import 'package:che_cucino/app/presentation/screens/recipe_details/recipe_details_screen.dart';
+import 'package:che_cucino/app/presentation/screens/settings/settings_screen.dart';
+import 'package:auto_route/auto_route.dart';
+import 'package:che_cucino/app/presentation/screens/blog/blog_screen.dart';
+import 'package:che_cucino/app/presentation/screens/cookbook/cookbook_screen.dart';
+import 'package:che_cucino/app/presentation/screens/home/home_screen.dart';
+import 'package:che_cucino/app/presentation/screens/login/login_screen.dart';
+import 'package:che_cucino/app/presentation/screens/missions/missions_screen.dart';
+import 'package:che_cucino/app/presentation/screens/onboarding/onboarding_screen.dart';
+import 'package:che_cucino/app/presentation/screens/profile/profile_screen.dart';
+import 'package:che_cucino/app/presentation/screens/recipe_details/recipe_details_screen.dart';
+import 'package:che_cucino/app/presentation/screens/settings/settings_screen.dart';
+import 'package:che_cucino/app/presentation/screens/shopping_list/shopping_list_screen.dart';
+import 'package:auto_route/auto_route.dart';
+import 'package:che_cucino/app/presentation/screens/blog/blog_screen.dart';
+import 'package:che_cucino/app/presentation/screens/cookbook/cookbook_screen.dart';
+import 'package:che_cucino/app/presentation/screens/home/home_screen.dart';
+import 'package:che_cucino/app/presentation/screens/login/login_screen.dart';
+import 'package:che_cucino/app/presentation/screens/missions/missions_screen.dart';
+import 'package:che_cucino/app/presentation/screens/onboarding/onboarding_screen.dart';
+import 'package:che_cucino/app/presentation/screens/profile/profile_screen.dart';
+import 'package:che_cucino/app/presentation/screens/recipe_details/recipe_details_screen.dart';
+import 'package:che_cucino/app/presentation/screens/settings/settings_screen.dart';
+import 'package:che_cucino/app/presentation/screens/shopping_list/shopping_list_screen.dart';
+import 'package:auto_route/auto_route.dart';
+import 'package:che_cucino/app/presentation/screens/blog/blog_screen.dart';
+import 'package:che_cucino/app/presentation/screens/cookbook/cookbook_screen.dart';
+import 'package:che_cucino/app/presentation/screens/home/home_screen.dart';
+import 'package:che_cucino/app/presentation/screens/login/login_screen.dart';
+import 'package:che_cucino/app/presentation/screens/meal_plan/meal_plan_screen.dart';
+import 'package:che_cucino/app/presentation/screens/missions/missions_screen.dart';
+import 'package:che_cucino/app/presentation/screens/onboarding/onboarding_screen.dart';
+import 'package:che_cucino/app/presentation/screens/profile/profile_screen.dart';
+import 'package:che_cucino/app/presentation/screens/recipe_details/recipe_details_screen.dart';
+import 'package:che_cucino/app/presentation/screens/settings/settings_screen.dart';
+import 'package:che_cucino/app/presentation/screens/shopping_list/shopping_list_screen.dart';
+import 'package:che_cucino/app/presentation/screens/smart_fridge/smart_fridge_screen.dart';
+import 'package:auto_route/auto_route.dart';
+import 'package:che_cucino/app/presentation/screens/blog/blog_screen.dart';
+import 'package:che_cucino/app/presentation/screens/cookbook/cookbook_screen.dart';
+import 'package:che_cucino/app/presentation/screens/flip_food/flip_food_screen.dart';
+import 'package:che_cucino/app/presentation/screens/home/home_screen.dart';
+import 'package:che_cucino/app/presentation/screens/login/login_screen.dart';
+import 'package:che_cucino/app/presentation/screens/meal_plan/meal_plan_screen.dart';
+import 'package:che_cucino/app/presentation/screens/missions/missions_screen.dart';
+import 'package:che_cucino/app/presentation/screens/onboarding/onboarding_screen.dart';
+import 'package:che_cucino/app/presentation/screens/profile/profile_screen.dart';
+import 'package:che_cucino/app/presentation/screens/recipe_details/recipe_details_screen.dart';
+import 'package:che_cucino/app/presentation/screens/settings/settings_screen.dart';
+import 'package:che_cucino/app/presentation/screens/shopping_list/shopping_list_screen.dart';
+import 'package:che_cucino/app/presentation/screens/smart_fridge/smart_fridge_screen.dart';
+import 'package:che_cucino/app/presentation/screens/support/support_screen.dart';
+
+part 'app_router.gr.dart';
+
+@AutoRouterConfig()
+class AppRouter extends _$AppRouter {
+  @override
+  List<AutoRoute> get routes => [
+        AutoRoute(page: OnboardingRoute.page, initial: true),
+        AutoRoute(page: LoginRoute.page),
+        AutoRoute(page: HomeRoute.page),
+        AutoRoute(page: ShoppingListRoute.page),
+        AutoRoute(page: RecipeDetailsRoute.page),
+        AutoRoute(page: MissionsRoute.page),
+        AutoRoute(page: ProfileRoute.page),
+        AutoRoute(page: SettingsRoute.page),
+        AutoRoute(page: CookbookRoute.page),
+        AutoRoute(page: BlogRoute.page),
+        AutoRoute(page: SupportRoute.page),
+        AutoRoute(page: SmartFridgeRoute.page),
+        AutoRoute(page: MealPlanRoute.page),
+        AutoRoute(page: FlipFoodRoute.page),
+      ];
+}
